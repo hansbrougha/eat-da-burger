@@ -17,3 +17,10 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+p,
+h2,
+img {
+  text-align: center;
+  align-items: center;
+}
